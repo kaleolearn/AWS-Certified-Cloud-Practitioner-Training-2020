@@ -1,0 +1,80 @@
+So, I just learned that this AWS thing is actually a web development tool.
+
+It focuses on billing (sending out invoices) and business-centric concepts
+
+i would be looking at around 8-20 hours of study time.
+
+Now, pearson actually administers exams for this. Here are some details about it:
+  Cost = $100
+  Duration = 90 min
+  65 questions
+  70 % passing grade
+  Valid for 3 years
+  
+Exam guide - content outline:
+  Cloud Concepts      28%
+  Security            24%
+  Technology          26%
+  Billing and Pricing 12%
+  
+  Cloud Concepts:
+  1.1 Define the AWS Cloud and its value proposition (how does AWS make the company's product seem more valuable)
+  1.2 Identify aspects of AWS Cloud economics
+  1.3 List the different Cloud architecture design principles.
+  
+  Security:
+  2.1 Define the AWS shared responsibility model
+  2.2 Define AWS Cloud secruity and compliance concepts
+  2.3 Identify AWS access management capabilities
+  2.4 Identify resources for security support
+  
+  Technology:
+  3.1 Define methods of deploying and operating in the AWS Cloud
+  3.2 Define the AWS global infrastructure
+  3.3 identify the core AWS services
+  3.4 identify resources of technology support
+  
+  Biling and Pricing
+  4.1 Compare and contrast the various pricing models for AWS
+  4.2 Recognize the various account structures in relation to AWS billing and pricing
+  4.3 Identify resources available for billing and support.
+
+Breaking it down.
+  
+  1.1 Define the AWS Cloud and its value proposition (how does AWS make the company's product seem more valuable)
+  - What is cloud computing? 
+    Cloud computing the practice of using a network of remote servers hosted on the internet to store, manage, 
+    and process data rather than a local server or a personal computer.
+    Instead of on-premise data storage, you would be using cloud providers
+    - So, in laymens terms, on-premises are like how you see in those movies where it's just rows and rows of servers that store all the important data of that entire entity.
+      then cloud providers are that but wireless and on the internet.
+  - Value proposition
+    1. you trade capital expense for variable expense
+    - instead of going through all the hassle of paying for data centers, cloud providers only charge you every time you consume computing services.
+    2. benefit from massive economies of scale - you share the cost with other customers using the cloud provider to save a lot of money
+    3. stop guessing capacity - eliminate guesswork about infrastructure capacity needs - you can scale up/down 
+    4. increase speed and agility
+    5. stop spending money on running and maintaining data centers
+    5. going global with your product in minutes - lower latency, better experience for customers
+    
+  1.2 Identify aspects of AWS Cloud economics
+  - Types of cloud computing
+    SaaS - Software as a Service (for customers)
+    
+    PaaS - Platform as a Service (for developers)
+    
+    IaaS - Infrastructure as a Service (for admin)
+    
+    "don't worry about IT staff, data centers and hardware"
+    
+  - What is cloud computing?
+  
+  3.2 Define the AWS global infrastructure
+  
+ - What is a region?
+  a geographically distinct location that has multiple datacenters or availability zones (AZ's)
+  
+  Each region has 2 availability zones
+  
+  Largest AWS region is US-EAST
+    
