@@ -1,0 +1,2 @@
+# AWS-Certified-Cloud-Practitioner-Training-2020
+So, I'm creating this repository on 19:51 PM Friday 15/i/2021 just to signify the day I decided to dive into this whole AWS cloud thing. I have not a clue what the actual content looks like let alone what the actual job will require, but I have this phone interview coming up on Monday about a job that is centered entirely around this whole cloud nonsense. So, Imma try my best to learn as much as I can and take as much notes as possible and try my best to understand even just the basics of what this whole thing is.
