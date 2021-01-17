@@ -1,0 +1,6 @@
+go to actions -> create image
+
+hit launch for server
+
+set up an auto-scaling group with an AMI
+
