@@ -1,0 +1,20 @@
+Edge Locations
+-cloudfront and route 53
+
+s3 transfer acceleration traffic
+
+GovCloud Regions
+- host sensitive Controlled Unclassified Information
+
+creating an aws account
+- go to aws.amazon.com
+
+billing preferences, budgets and alarms
+- prevention of getting over-billed
+
+Change IAM Users Sign-in Link
+
+Activate MFA on Root Account
+
+Create individual IAM user
+- set most people to "power user" instead of admin
